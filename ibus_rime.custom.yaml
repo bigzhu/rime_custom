@@ -1,0 +1,4 @@
+## 必须要加入这个, 才能让 ibus-rime 横向显示输入框
+# linux 下候选改横向
+patch:
+  "style/horizontal": true
